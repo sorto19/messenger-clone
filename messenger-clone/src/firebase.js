@@ -1,6 +1,6 @@
 import firebase from "firebase";
 
-const firebaseApp = firebase.InizializeApp({
+const firebaseApp = firebase.initializeApp({
        apiKey: "AIzaSyDyy0RpGsBZwuagV10sIodN--yNF9uZF74",
         authDomain: "messenger-clone-40006.firebaseapp.com",
         databaseURL: "https://messenger-clone-40006.firebaseio.com",
